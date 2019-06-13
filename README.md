@@ -8,3 +8,6 @@ A line i added from Git website
 here is crazy idea!
 
 New branch.
+
+
+minmi!!
